@@ -1,1 +1,3 @@
-@eth-optimism/=lib/node_modules/@eth-optimism/
+@openzeppelin/contracts=lib/openzeppelin-contracts/contracts/
+@openzeppelin/community-contracts=lib/openzeppelin-community-contracts/contracts/
+@optimism/contracts-bedrock=lib/optimism/packages/contracts-bedrock

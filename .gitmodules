@@ -7,3 +7,6 @@
 [submodule "lib/openzeppelin-community-contracts"]
 	path = lib/openzeppelin-community-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-community-contracts
+[submodule "lib/optimism"]
+	path = lib/optimism
+	url = https://github.com/ethereum-optimism/optimism
